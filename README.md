@@ -73,7 +73,7 @@ In this exploratory data analysis (EDA), we will use the 'Used Cars' dataset fro
 
 Subsequently, after completing the dataset cleaning, we will conduct a small business simulation exercise with the remaining cars. In this exercise, we will simulate owning all these cars and outline a small business strategy for a rental/leasing company.
 
-[graph]
+<img src="images/graph.png" alt="Logo" width="1200">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
