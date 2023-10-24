@@ -32,9 +32,9 @@
     <a href="https://github.com/Javier-Requena/UsedCars-EDA-python"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/Javier-Requena/UsedCars-EDA-python/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/Javier-Requena/UsedCars-EDA-python/issues">Request Feature</a>
   </p>
 </div>
 
