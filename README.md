@@ -183,6 +183,6 @@ Project Link: [https://github.com/Javier-Requena/UsedCars-EDA-python](https://gi
 [Python]: https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow
 [Python-url]: https://www.python.org/
 [Numpy]: https://img.shields.io/badge/Numpy-8198DF?style=for-the-badge&logo=numpy&logoColor=091A4F
-[Numpy-url]: https://reactjs.org/
+[Numpy-url]: https://numpy.org/
 [Pandas]: https://img.shields.io/badge/Pandas-606060?style=for-the-badge&logo=pandas&logoColor=white
 [Pandas-url]: https://pandas.pydata.org/
